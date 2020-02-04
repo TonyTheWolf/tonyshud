@@ -89,6 +89,24 @@
 		"font"			"NextArtRegular48"
 		"fgcolor"		"255 255 255 255"
 	}
+	"PlayerStatusHealthValueBG"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueBG"
+		"xpos"			"2"
+		"xpos_minmode"	"61"
+		"ypos"			"2"	[$WIN32]
+		"ypos"			"0"	[$X360]
+		"zpos"			"4"
+		"wide"			"120"
+		"tall"			"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"NextArtRegular48"
+		"fgcolor"		"0 0 0 255"
+	}
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"
