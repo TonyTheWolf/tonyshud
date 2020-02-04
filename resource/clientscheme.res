@@ -3016,6 +3016,8 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		///// [Next Art Regular] /////
 
 		"NextArtRegular12"
 		{
@@ -3082,6 +3084,78 @@ Scheme
 			"1"
 			{
 				"name"		"NEXTART"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		///// [Next Art Bold] /////
+
+		"NextArtBold12"
+		{
+			"1"
+			{
+				"name"		"NEXTART-Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+
+		"NextArtBold16"
+		{
+			"1"
+			{
+				"name"		"NEXTART-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		"NextArtBold24"
+		{
+			"1"
+			{
+				"name"		"NEXTART-Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		"NextArtBold32"
+		{
+			"1"
+			{
+				"name"		"NEXTART-Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+
+		"NextArtBold36"
+		{
+			"1"
+			{
+				"name"		"NEXTART-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+
+		"NextArtBold42"
+		{
+			"1"
+			{
+				"name"		"NEXTART-Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+
+		"NextArtBold48"
+		{
+			"1"
+			{
+				"name"		"NEXTART-Bold"
 				"tall"		"48"
 				"antialias" "1"
 			}
